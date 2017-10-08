@@ -5,7 +5,11 @@ This is docker-compose file for WordPress with MariaDB.
 $ docker-compose up -d
 ```
 
-And access `http://localhost:8000` with your browser.
+And access `http://localhost:8080` with your browser. or,
+
+```bash
+$ open http://localhost:8080
+```
 
 ## stop docker
 ```bash
